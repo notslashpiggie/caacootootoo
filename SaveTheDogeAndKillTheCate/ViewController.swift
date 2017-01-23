@@ -1,4 +1,4 @@
-//
+ //
 //  ViewController.swift
 //  SaveTheDogeAndKillTheCate
 //
@@ -13,6 +13,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        print("Dogs are the best")
     }
 
     override func didReceiveMemoryWarning() {
